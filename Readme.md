@@ -1,4 +1,5 @@
-# Nexpose / Nessus Vulnerability Scanner (Highly Recommend)
+# The Hacker Playbook 01
+### Nexpose / Nessus Vulnerability Scanner (Highly Recommend)
 
 - Nexpose: http://www.rapid7.com/products/nexpose
 - Nessus: [Nessus Vulnerability Scanner: Network Security Solution | Tenable®](https://www.tenable.com/products/nessus)
@@ -93,7 +94,7 @@ service Metasploit start
 ---
 ### Install Discover Scripts (originally called Backtrack-scripts)
 	
-	1.  Discover is used for Passive Enumeration
+	1. Discover is used for Passive Enumeration
 	2. cd/opt/
 	3. git clone https://github.com/leebaird/discover.git 
 	4. cd discover/
