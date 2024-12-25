@@ -38,8 +38,6 @@
   
 - BeEF 
   
-- Responder 
-  
 - Firefox 
   
 	- Web Developer Add-on 
