@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Hacking/The Hacker Playbook/Tools.md",
+                "file": "Web Hacking/Bug Hunting/Open Redirect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Open Redirect"
             }
           }
         ],
@@ -195,10 +195,16 @@
   },
   "active": "fffcaa97c4c39374",
   "lastOpenFiles": [
+    "Web Hacking/Bug Hunting/HTTP Basics.md",
+    "Web Hacking/Bug Hunting/XSS/XSS.md",
+    "Web Hacking/Bug Hunting/Book and Additional Resource.md",
+    "Web Hacking/Bug Hunting/XSS/Stored XSS.md",
+    "Web Hacking/Bug Hunting/XSS/Reflected XSS.md",
+    "Web Hacking/Bug Hunting/XSS/DOM XSS.md",
+    "Readme.md",
     "Web Hacking/The Hacker Playbook/Note.md",
     "Web Hacking/The Hacker Playbook/Tools.md",
     "Web Hacking/The Hacker Playbook",
-    "Readme.md",
     "Web Hacking"
   ]
 }
